@@ -2,6 +2,10 @@
 
 Docker を用いて Rails 6 アプリケーションの開発・学習を始めるための設定ファイル等のセット
 
+db:5432ポートを解放しています
+
+cf: <https://github.com/oiax/rails6-compose>
+
 ## 必要なソフトウェア
 
 * Docker 18 以上
